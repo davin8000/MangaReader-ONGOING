@@ -1,0 +1,9 @@
+c:\users\davin\documents\visual studio 2013\Projects\MangaReader\MangaReader\bin\Debug\MangaReader.exe.config
+c:\users\davin\documents\visual studio 2013\Projects\MangaReader\MangaReader\bin\Debug\MangaReader.exe
+c:\users\davin\documents\visual studio 2013\Projects\MangaReader\MangaReader\bin\Debug\MangaReader.pdb
+c:\users\davin\documents\visual studio 2013\Projects\MangaReader\MangaReader\obj\Debug\MangaReader.csprojResolveAssemblyReference.cache
+c:\users\davin\documents\visual studio 2013\Projects\MangaReader\MangaReader\obj\Debug\MangaReader.Form1.resources
+c:\users\davin\documents\visual studio 2013\Projects\MangaReader\MangaReader\obj\Debug\MangaReader.Properties.Resources.resources
+c:\users\davin\documents\visual studio 2013\Projects\MangaReader\MangaReader\obj\Debug\MangaReader.csproj.GenerateResource.Cache
+c:\users\davin\documents\visual studio 2013\Projects\MangaReader\MangaReader\obj\Debug\MangaReader.exe
+c:\users\davin\documents\visual studio 2013\Projects\MangaReader\MangaReader\obj\Debug\MangaReader.pdb
